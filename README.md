@@ -1,5 +1,5 @@
 # SteamPricing
-Various scirpts/functions i used in older project for pricing steam market data accurately. 
+Various scripts/functions i used in older project for pricing steam market data accurately. 
 
 
 -  fetchpricedata
